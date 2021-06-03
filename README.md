@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Zakaria
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C language
