@@ -7,9 +7,9 @@ I'm currently a student at **1337 School Benguérir**. My passion lies in logic 
 
 [![zwina's 42 stats](https://badge.mediaplus.ma/kettlebells/zwina)](https://github.com/zakaria-wina)
 
-## My <a href="https://leetcode.com/zakaria_wina/" target="_blank">LeetCode</a> Profile
+## My LeetCode Profile
 
-![LeetCode Stats](https://leetcode.card.workers.dev/zwzone?theme=auto&font=patrick_hand&extension=null)
+[![LeetCode Stats](https://leetcode.card.workers.dev/zwzone?theme=auto&font=patrick_hand&extension=null)](https://leetcode.com/zwzone/)
 
 ## **I'm good at :**  
 
