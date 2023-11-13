@@ -9,7 +9,7 @@ I'm currently a student at **1337 School Benguérir**. My passion lies in logic 
 
 ## My <a href="https://leetcode.com/zakaria_wina/" target="_blank">LeetCode</a> Profile
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/zakaria_wina?theme=light&font=Barlow&ext=heatmap)
+![LeetCode Stats](https://leetcode.card.workers.dev/zwzone?theme=auto&font=patrick_hand&extension=null)
 
 ## **I'm good at :**  
 
