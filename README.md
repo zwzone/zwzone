@@ -5,7 +5,7 @@ I'm currently a student at **1337 School Benguérir**. My passion lies in logic 
 
 ## My 1337FIL Profile (42Network)
 
-[![zwina's 42 stats](https://badge.mediaplus.ma/kettlebells/zwina)](https://github.com/zakaria-wina)
+[![zwina's 42 stats](https://badge.mediaplus.ma/kettlebells/zwina)](https://github.com/zwzone)
 
 ## My LeetCode Profile
 
