@@ -1,8 +1,17 @@
-# 👋 Hi, I’m Zakaria
+# 👋 Hello World, I’m Zakaria!
+
 I'm currently a student at **1337 School Benguérir**. My passion lies in logic and mathematics, which is why I am deeply interested in programming, particularly in competitive programming and problem-solving.
-<div align="center">
-  <img align="center" src="https://i.pinimg.com/originals/7a/1c/ec/7a1cec5934211ba4f04089c8b3f24658.jpg" width="256"/>
-</div>
+
+## My Github Stats
+
+<p display="flex">
+  <img src="https://cdn.dribbble.com/users/42502/screenshots/1194329/media/063c8a62ff6d554fe97ddb63f8eb136c.jpg" height=200/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zwzone" height=200/>
+</p>
 
 ## My LeetCode Profile
-[![LeetCode Stats](https://leetcode.card.workers.dev/zwzone?theme=auto&font=patrick_hand&extension=null)](https://leetcode.com/zwzone/)
+
+<p display="flex">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/057/491/777/large/stebane-vincent-keyboardrender3ps.jpg?1671729120" height=200/>
+  <img src="https://leetcode.card.workers.dev/zwzone?theme=default&font=&extension=null" height=200/>
+</p>
